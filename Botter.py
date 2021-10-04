@@ -16,7 +16,7 @@ import spacy
 import textacy.extract
 import discord
 
-DISCORD_BOT_TOKEN = 'NzAyNzQ5MTg3NDcyNjIxNjEw.XqEkQA.AXZQki5UjR0Kf7C9oKIHpCSmMe0'
+DISCORD_BOT_TOKEN = ''
 
 client = discord.Client()
 
